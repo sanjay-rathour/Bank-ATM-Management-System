@@ -7,7 +7,7 @@ import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.*;
 import java.sql.*;
-
+ 
 public class Login  extends JFrame implements ActionListener{
     
     JButton signUp, signIn, clear; 
@@ -118,3 +118,4 @@ public class Login  extends JFrame implements ActionListener{
         new Login();
     }
 }
+
